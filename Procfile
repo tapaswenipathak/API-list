@@ -1,1 +1,1 @@
-web: gunicorn apilist.wsgi
+web: gunicorn TwilioTextImplementation.wsgi
